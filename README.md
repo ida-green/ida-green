@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ida-green
 - 👀 I’m interested in fullstack web-development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently developing my first web-site
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ida.rukhova@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
